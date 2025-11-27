@@ -5,14 +5,14 @@ Ce projet consiste à réaliser un logiciel de gestion en Java selon l’archite
 Le logiciel est utilisé par deux types d’utilisateurs : Administrateur et Gestionnaire
 Le développement est organisé avec le cadre Scrum
 ## 2. Besoin
-Objectif :
+### Objectif :
 Permettre la gestion des données principales de l’application via des opérations CRUD :
 - Create (Créer)
 - Read (Consulter, Lister)
 - Update (Modifier)
 - Delete (Supprimer)
 
-Fonctions attendues
+### Fonctions attendues
 - Authentification : se connecter / se déconnecter
 - Gestion Clients : créer, consulter, modifier, supprimer
 - Gestion Produits : créer, consulter, modifier, supprimer
@@ -23,17 +23,17 @@ Exemple :
 
 
 
-Répartition MVC 
+### Répartition MVC 
 - Modèle : classes métier (Client, Produit) 
 - Contrôleur : reçoit les actions utilisateur et appelle les services
 - Vue : écrans 
 
 ## 3. Résultat 
-Livrables :
+### Livrables :
 - Diagramme de cas d’utilisation 
 - Diagramme de classe
 
-Ce que l’application permet à la fin 
+### Ce que l’application permet à la fin 
 - Connexion utilisateur
 ![La page login](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/login.png)
 
@@ -41,7 +41,7 @@ Ce que l’application permet à la fin
 ![La page principale](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/main.png)
 
 
-Justification du patron de conception 
+### Justification du patron de conception 
 
 Nous avons choisi la patron Modèle-Vue-Contrôleur pour séparer la logique métier de l’interface utilisateur :
 -Le Modèle regroupe les règles de gestion du stock (marchandise, quantités, entrées/sorties)
