@@ -2,8 +2,10 @@
 
 ## 1. Contexte
 Ce projet consiste à réaliser un **logiciel de gestion** en Java selon l’architecture **MVC** (Modèle – Vue – Contrôleur).
+
 Le logiciel est utilisé par deux types d’utilisateurs : **Administrateur et Gestionnaire**
-Le développement est organisé avec le cadre **SCRUD**
+
+> Le développement est organisé avec le cadre **SCRUD**
 ## 2. Besoin
 ### Objectif :
 Permettre la gestion des données principales de l’application via des opérations CRUD :
