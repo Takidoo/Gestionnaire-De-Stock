@@ -44,8 +44,8 @@ Exemple :
 ### Justification du patron de conception 
 
 Nous avons choisi la patron Modèle-Vue-Contrôleur pour séparer la logique métier de l’interface utilisateur :
--Le Modèle regroupe les règles de gestion du stock (marchandise, quantités, entrées/sorties)
--La Vue s’occupe de de l’affichage (boutons) et de la saisie 
--Le Contrôleur reçoit les actions de l’user (ajouter, retirer et rechercher produit) et appelle les méthodes du Modèle
-Cette méthode rend le code plus lisible et cohérent.
+- Le Modèle regroupe les règles de gestion du stock (marchandise, quantités, entrées/sorties)
+- La Vue s’occupe de de l’affichage (boutons) et de la saisie 
+- Le Contrôleur reçoit les actions de l’user (ajouter, retirer et rechercher produit) et appelle les méthodes du Modèle
+> Cette méthode rend le code plus lisible et cohérent.
 
