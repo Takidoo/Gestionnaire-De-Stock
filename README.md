@@ -18,9 +18,7 @@ Permettre la gestion des données principales de l’application via des opérat
 - Authentification : se connecter / se déconnecter
 - Gestion Clients : créer, consulter, modifier, supprimer
 - Gestion Produits : créer, consulter, modifier, supprimer
-- (Optionnel) Stock / Factures / Paiements 
-Exemple :
-- Supprimer un client possible s’il n’a aucune facture
+
 
 
 
