@@ -35,7 +35,10 @@ Livrables :
 
 Ce que l’application permet à la fin 
 - Connexion utilisateur
+![La page login](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/login.png)
+
 - Interface (Vue) permettant de lister/ajouter/modifier/supprimer 
+![La page principale](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/main.png)
 
 
 Justification du patron de conception 
