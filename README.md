@@ -30,8 +30,10 @@ Permettre la gestion des données principales de l’application via des opérat
 
 ## 3. Résultat 
 ### Livrables :
-- Diagramme de cas d’utilisation 
+- Diagramme de cas d’utilisation
+![La page principale](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/dc.png)
 - Diagramme de classe
+![La page principale](https://github.com/Takidoo/Gestionnaire-De-Stock/blob/master/thumbnail/dclasse.png)
 
 ### Ce que l’application permet à la fin 
 - Connexion utilisateur
